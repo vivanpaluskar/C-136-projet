@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+#start , #status , #object_found{
+    font-size: 18px;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+}
+#object_name{
+    color: wheat;
+    width: 350px;
+}
+.note{
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-top: 0px;
+}
